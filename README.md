@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7526joohi
+- 👋 Hi, I’m @7526joohitripathi
 - 👀 I’m interested in learning as a software engineer
 - 🌱 I’m currently learning btech from CSE 
 - 💞️ I’m looking to collaborate on programming languages
